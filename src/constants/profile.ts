@@ -3,7 +3,7 @@ import type { Profile } from "@/types";
 export const profileData: Profile = {
   name: "Wahyu Bagas",
   region: "Indonesia",
-  CV: "/assets/pdf/Muhammad Sufyan CV.pdf",
+  CV: "/assets/pdf/CV Wahyu Bagas Dwi Prasetyo Update Version MSIB.pdf",
   divisions: ["IT Project Manager", "Web Developer", "IT Product Manager", "Software Tester"],
   pictures: ["/assets/images/home-profile.webp", "/assets/images/home-profile.jpg"],
   descriptions: [
